@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602028126147",
+    "project_id": "shareman-a7be5",
+    "storage_bucket": "shareman-a7be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602028126147:android:445774e610e297da889776",
+        "android_client_info": {
+          "package_name": "com.application.shareman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602028126147-jv7v908voi0trg3o5uo5t08gm3i2uglp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARd3ulUhLCAOFnRL52npOO3z9lMXmp5y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602028126147-jv7v908voi0trg3o5uo5t08gm3i2uglp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

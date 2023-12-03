@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ShareMan</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyCvxKaE92HxvKvHCkm4cEJS_2SEfrUCffw</string>
+
+    //--------------------------------------------------------------- auth
+    <string name="register">REGISTER</string>
+    <string name="register1">Register</string>
+    <string name="aNewAccount">a new account</string>
+    <string name="fullName">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="fillFields">Please fill all required fields correctly.</string>
+    <string name="ok">OK</string>
+    <string name="invalidPassword">Password must be more than or equals 6 characters.</string>
+    <string name="invalidUsername">This username is in use by other user. Please choose another username.</string>
+    <string name="invalidEmail">This email address is in use by other user. Please use another email.</string>
+    //--------------------------------------------------------------- subjects
+    <string name="favoriteSubjects">Favorite Subjects</string>
+    <string name="maxSubjectSelection">select maximum 5 subjects</string>
+    <string name="start">Start</string>
+    //--------------------------------------------------------------- addNewPost
+    <string name="picture">Picture</string>
+    <string name="video">Video</string>
+    <string name="text">Text</string>
+    <string name="newPostHeader">New Post</string>
+    <string name="writeSomething">write something…</string>
+    <string name="selectCategory">Related Category</string>
+    <string name="location">Location</string>
+    <string name="publish">Publish</string>
+    <string name="closeComments">Close Comments</string>
+    <string name="turnOnLocationService">Please turn on your location service.</string>
+    <string name="select">Select</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="selectCategoryError">Please select a category.</string>
+    <string name="selectMediaError">Please select a media file or capture by your camera.</string>
+    <string name="uploadingPost">Uploading Post…</string>
+    <string name="postUploaded">Post Is Successfully Uploaded.</string>
+    <string name="postUploadingFailed">Post Uploading Failed.</string>
+    <string name="videoDurationError1">Video duration can not be more than</string>
+    <string name="videoDurationError2">minutes.</string>
+    //--------------------------------------------------------------- home
+    <string name="ago">ago</string>
+    <string name="seconds">seconds</string>
+    <string name="minutes">minutes</string>
+    <string name="hours">hours</string>
+    <string name="days">days</string>
+    <string name="weeks">weeks</string>
+    <string name="months">months</string>
+    <string name="years">years</string>
+
+</resources>

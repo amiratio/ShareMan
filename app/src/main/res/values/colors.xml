@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkGray">#353535</color>
+    <color name="yellow">#FFC107</color>
+    <color name="green">#339e66</color>
+    <color name="red">#d8514e</color>
+    <color name="none">#00FFFFFF</color>
+    <color name="button">#2a2b2d</color>
+
+    <color name="color1">#fcf7f4</color>
+    <color name="color2">#edc1da</color>
+    <color name="color3">#8ab9d3</color>
+    <color name="picturePostBorder">#2a2b2d</color>
+    <color name="VideoPostBorder">#2a2b2d</color>
+    <color name="TextPostBorder">#2a2b2d</color>
+    <color name="nav1">#d8514e</color>
+    <color name="nav2">#2a2b2d</color>
+    <color name="nav3">#2ea8d9</color>
+
+    <color name="background">#F8F8F8</color>
+    <color name="lottie">#74FFFFFF</color>
+    <color name="hint">#7E7E7E</color>
+    <color name="box">#FFFFFF</color>
+    <color name="header">#454545</color>
+    <color name="dialog">#FFFFFF</color>
+    <color name="icon">#454545</color>
+    <color name="color4">#2a2b2d</color>
+    <color name="color5">#D8DDE6</color>
+    <color name="textDark">#000000</color>
+    <color name="textMedium">#5A5A5A</color>
+    <color name="textLight">#BFBFBF</color>
+</resources>
